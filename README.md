@@ -4,7 +4,7 @@ Necesitarás tener instalado ``` node.js ``` a partir de la versión 14 y tener 
 >
 1. Necesitamos clonar el proyecto añadiendo la siguiente linea de comando en una terminal
 ```
-git clone https://github.com/DiegoRMV/web-store.git
+git clone https://github.com/DiegoRMV/web-games-store.git
 ```
 >
 2. Entramos a la carpeta que acabamos de clonar e instalamos las dependencias necesarias
